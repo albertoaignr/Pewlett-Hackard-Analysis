@@ -19,13 +19,13 @@ For the ones born between January 1, 1965 and December 31, 1965. This was the cr
 
 Where the facts retrieved from the evaluation of data are:
 
+- Some of the employees have climbed the corporate ladder or changed departments through their career in the company.
+
 - A sum total of more than 70,000 employees are eligible or soon for retirement.
 
 - Most of the employees have more than 20 years of experience.
 
 - More than 1,500 employees are eligible for mentorship program.
-
-- 
 
 ## Summary
 
@@ -35,7 +35,7 @@ At least the same ammount soon to retire, which makes ~30% of the personnel. The
   
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-Using the same queries to retrieve the data and evaluating on different years, these 3 tables are applied for different range of birth dates(1956-1960,1961-1965 and 1965-1967), for people currently in the company and following the retirement scheme.
+Using the queries to retrieve the data and evaluating on different years, these 3 tables are applied for different range of birth dates(1956-1960,1961-1965 and 1965-1967), for people currently in the company and following the retirement scheme.
 
  ![rough_comparison.png](Resources/rough_comparison.png)
  
